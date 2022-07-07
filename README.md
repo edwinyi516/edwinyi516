@@ -3,8 +3,6 @@
 ## <div align="center">Howdy forks! 🤠 I'm Edwin Yi</div>
 
 <p align="center">
-  <a href="https://github.com/edwinyi516" alt="GitHub">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/edwin-yi-541980200/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:edwin.yi.128@gmail.com" alt="Gmail">
@@ -21,7 +19,7 @@
 * 🎓 &nbsp;**UT Austin** 🤘
 * 📚 &nbsp;Currently reading: **_The Algorithm Design Manual_**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyi516&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyi516&show_icons=true&hide_border=true&theme=dark)
 
 ![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwinyi516&show_icons=true&hide_border=true&theme=dark)
 
