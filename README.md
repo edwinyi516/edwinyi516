@@ -3,11 +3,11 @@
 ## <div align="center">Howdy forks! 🤠 I'm Edwin Yi</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edwin-yi-541980200/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/edwin-yi-541980200/" target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:edwin.yi.128@gmail.com" alt="Gmail">
+  <a href="mailto:edwin.yi.128@gmail.com" target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/edwinhyi/" alt="Instagram">
+  <a href="https://www.instagram.com/edwinhyi/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 </p>
 
