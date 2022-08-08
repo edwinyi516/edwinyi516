@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/102695350/183532355-64adbb8c-8fc8-4438-8927-611853d2d159.jpg)
+![Banner](https://user-images.githubusercontent.com/102695350/183532692-4858ec23-7434-41d0-9b94-7d1cbe8be2c0.jpg)
 
 ## <div align="center">Howdy forks! 🤠 I'm Edwin Yi</div>
 
