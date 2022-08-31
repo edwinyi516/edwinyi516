@@ -15,7 +15,7 @@
 
 ### About me
 * 👀 &nbsp;Interested in **full stack engineering**
-* 🌱 &nbsp;Currently learning: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=Bootstrap) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=Postman)
+* 🌱 &nbsp;Currently learning: ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=Bootstrap) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
 * 🎓 &nbsp;**UT Austin grad** 🤘
 * 📚 &nbsp;Currently reading: **_The Algorithm Design Manual_**
 
