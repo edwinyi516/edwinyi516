@@ -11,13 +11,18 @@
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 </p>
 
-<div align="center">I am a software engineer based in Austin, TX.<br>Currently completing the Software Engineering Immersive bootcamp at General Assembly.</div>
+<div align="center">Software engineer based in Austin, TX.<br>Currently completing the Software Engineering Immersive bootcamp at General Assembly.</div>
 
-### About me
-* 👨‍💻 &nbsp;Tech Stack: ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=Bootstrap) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
-* 🌱 &nbsp;Currently learning: ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask)
-* 📚 &nbsp;Currently reading: **_The Algorithm Design Manual_**
+### About Me
+* 👨‍💻 &nbsp;**Tech Stack**
+    * Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
+    * Libraries & Frameworks: ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=Bootstrap)
+    * Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL) ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=SQLite)
+    * DevOps & Tools: ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub) ![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat&logo=Heroku) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel)
+* 📚 &nbsp;**Currently reading:** _The Algorithm Design Manual_
 * 🎓 &nbsp;**UT Austin grad** 🤘
+
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyi516&show_icons=true&hide_border=true&theme=dark)
 
