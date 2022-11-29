@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 </p>
 
-<div align="center">Software engineer based in Austin, TX.<br>Currently completing the Software Engineering Immersive bootcamp at General Assembly.</div>
-
 ### About Me
 * 👨‍💻 &nbsp;**Tech Stack**
     * Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
