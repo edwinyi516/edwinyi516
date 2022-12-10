@@ -17,7 +17,7 @@
     * Libraries & Frameworks: ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=Bootstrap)
     * Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL) ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=SQLite)
     * DevOps & Tools: ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub) ![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat&logo=Heroku) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel)
-* 📚 &nbsp;**Currently reading:** _The Algorithm Design Manual_
+* 📚 &nbsp;**Currently reading:** _Grokking Algorithms_
 * 🎓 &nbsp;**UT Austin grad** 🤘
 
 <br/>
